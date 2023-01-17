@@ -1,7 +1,7 @@
-This is the first line used for the pull request test
+This is the first line used for the pull request test.
 
-Making a change to test Git commands!
+This is the second line!
 
-Adding a fourth line. This is it. Really it is. 
+AAnd the third, from the master
 
-Right now I'm in the middle of working on this file.
+And a final fourth line. This is it.
